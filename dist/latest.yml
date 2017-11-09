@@ -1,5 +1,5 @@
-version: 0.5.3
-releaseDate: '2017-10-20T08:37:13.888Z'
-githubArtifactName: electron-updater-example-Setup-0.5.3.exe
-path: electron-updater-example Setup 0.5.3.exe
-sha2: e0ec2e213dd4aae7f811f7cb3b027c03f4a10aaa2996c1f19234f92d2d587cbb
+version: 0.0.2
+releaseDate: '2017-11-09T01:00:21.081Z'
+githubArtifactName: electron-updater-example-Setup-0.0.2.exe
+path: electron-updater-example Setup 0.0.2.exe
+sha2: 1a180d8c8b724aa74c0ebf50c6b1227db52482e330df72dbd03f17d03469c231
